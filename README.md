@@ -1,6 +1,9 @@
-# LocalWhisper Support
+# MW Inc Support
 
-Public support and privacy policy pages for the LocalWhisper macOS App Store listing.
+Public support and privacy policy pages for MW Inc App Store listings.
 
-- Support: https://mokwoo-inc.github.io/localwhisper-support/
-- Privacy Policy: https://mokwoo-inc.github.io/localwhisper-support/privacy.html
+- Hub: https://mokwoo-inc.github.io/mw-inc-support/
+- LocalWhisper Support: https://mokwoo-inc.github.io/mw-inc-support/localwhisper/
+- LocalWhisper Privacy Policy: https://mokwoo-inc.github.io/mw-inc-support/localwhisper/privacy.html
+- Lockin Support: https://mokwoo-inc.github.io/mw-inc-support/lockin/
+- Lockin Privacy Policy: https://mokwoo-inc.github.io/mw-inc-support/lockin/privacy.html
