@@ -3,8 +3,6 @@
 Single public support and privacy policy site for MW Inc App Store listings.
 
 - Hub: https://mokwoo-inc.github.io/mw-inc-support/
-- SecondMallow Support: https://mokwoo-inc.github.io/mw-inc-support/secondmallow/
-- SecondMallow Privacy Policy: https://mokwoo-inc.github.io/mw-inc-support/secondmallow/privacy.html
 - LocalWhisper Support: https://mokwoo-inc.github.io/mw-inc-support/localwhisper/
 - LocalWhisper Privacy Policy: https://mokwoo-inc.github.io/mw-inc-support/localwhisper/privacy.html
 - Lockin Support: https://mokwoo-inc.github.io/mw-inc-support/lockin/
