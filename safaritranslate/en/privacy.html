@@ -51,6 +51,7 @@
       <li>Translation progress per tab: each tab's translation state, how many paragraphs were translated, whether the whole page or a selection was translated, and the address of another-language version of the page found in that tab (in Safari's extension storage). Removed when the tab is closed.</li>
       <li>How many pages have been fully translated and when the last one finished (in the app group storage; page addresses are not stored). Used only to decide when to ask for a rating.</li>
       <li>Only if you started the earlier 30-day free trial: when that trial ends, and the latest time this Mac has seen, used to count the trial period (in the app group storage shared by the app and the extension). The record that the trial was started is itself an App Store purchase record.</li>
+      <li>When the extension can't reach a page: only the type of failure, its time, and a count (last 20 events, Safari extension storage). It records no addresses, sites, or page content, and nothing leaves your device.</li>
     </ul>
     <p>
       This information is stored only on your device.
